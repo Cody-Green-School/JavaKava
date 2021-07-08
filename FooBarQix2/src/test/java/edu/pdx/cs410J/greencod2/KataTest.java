@@ -1,4 +1,4 @@
-package edu.pdx.cs410J.939378200;
+package edu.pdx.cs410J.greencod2;
 
 import org.junit.jupiter.api.Test;
 

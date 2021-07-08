@@ -1,4 +1,4 @@
-package edu.pdx.cs410J.939378200;
+package edu.pdx.cs410J.greencod2;
 
 /**
  * A class for getting started with a code kata
@@ -14,5 +14,3 @@ public class Kata {
     System.exit(1);
   }
 }
-
-//comment
