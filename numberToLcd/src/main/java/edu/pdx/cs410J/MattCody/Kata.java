@@ -117,7 +117,7 @@ public class Kata {
     if(args.length == 0) {
       System.err.println("Missing command line arguments");
       System.exit(1);
-    } else if (args.length < 1>) {
+    } else if (args.length < 1) {
       System.err.println(("Too many args, submit only one number"));
       System.exit(1);
     }
